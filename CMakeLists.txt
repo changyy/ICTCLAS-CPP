@@ -2,7 +2,7 @@ PROJECT(ICTCLAS2015-STUDY)
 
 CMAKE_MINIMUM_REQUIRED (VERSION 2.8)
 
-# download lastest version: http://ictclas.nlpir.org/upload/
+# download latest version: http://ictclas.nlpir.org/upload/
 set(TOOL_ICTCLAS_TARGET_SOURCE "20150805111452_20150702124141_ICTCLAS2015%20\\(1\\).zip")
 set(TOOL_ICTCLAS_SOURCE ICTCLAS2015.zip) 
 set(TOOL_ICTCLAS_DIR ICTCLAS2015)
