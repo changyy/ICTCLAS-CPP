@@ -21,8 +21,7 @@ gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.4)
 ```
 # Usage
 
-You should check the lastest source code link at: http://ictclas.nlpir.org/downloads
-And change the path at CMakeLists.txt to fetch the code:
+You should check the lastest source code link at: http://ictclas.nlpir.org/downloads and change the path at CMakeLists.txt to fetch the code:
 
 Link:
 
@@ -36,8 +35,7 @@ Action:
 
   set(TOOL_ICTCLAS_TARGET_SOURCE "20170314140452_ICTCLAS2016%E5%88%86%E8%AF%8D%E7%B3%BB%E7%BB%9F%E4%B8%8B%E8%BD%BD%E5%8C%85.zip")
 
-At this moment, you also need to get the license from github: https://github.com/NLPIR-team/NLPIR/tree/master/License
-And copy all files to build/Data
+At this moment, you also need to get the license from github: https://github.com/NLPIR-team/NLPIR/tree/master/License and copy all files to build/Data
 
 ```
 $ mkdir build
