@@ -21,7 +21,7 @@ gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.4)
 ```
 # Usage
 
-You should check the lastest source code link at: http://ictclas.nlpir.org/downloads and change the path at CMakeLists.txt to fetch the code:
+You should check the latest source code link at: http://ictclas.nlpir.org/downloads and change the path at CMakeLists.txt to fetch the code:
 
 Link:
 
